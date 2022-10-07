@@ -1,0 +1,13 @@
+C:\repos\ChargersTDD\ChargersSearch\bin\Debug\net6.0\ChargersSearch.deps.json
+C:\repos\ChargersTDD\ChargersSearch\bin\Debug\net6.0\ChargersSearch.dll
+C:\repos\ChargersTDD\ChargersSearch\bin\Debug\net6.0\ChargersSearch.pdb
+C:\repos\ChargersTDD\ChargersSearch\obj\Debug\net6.0\ChargersSearch.csproj.AssemblyReference.cache
+C:\repos\ChargersTDD\ChargersSearch\obj\Debug\net6.0\ChargersSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\ChargersTDD\ChargersSearch\obj\Debug\net6.0\ChargersSearch.AssemblyInfoInputs.cache
+C:\repos\ChargersTDD\ChargersSearch\obj\Debug\net6.0\ChargersSearch.AssemblyInfo.cs
+C:\repos\ChargersTDD\ChargersSearch\obj\Debug\net6.0\ChargersSearch.ImplicitNamespaceImports.cs
+C:\repos\ChargersTDD\ChargersSearch\obj\Debug\net6.0\ChargersSearch.csproj.CoreCompileInputs.cache
+C:\repos\ChargersTDD\ChargersSearch\obj\Debug\net6.0\ChargersSearch.dll
+C:\repos\ChargersTDD\ChargersSearch\obj\Debug\net6.0\refint\ChargersSearch.dll
+C:\repos\ChargersTDD\ChargersSearch\obj\Debug\net6.0\ChargersSearch.pdb
+C:\repos\ChargersTDD\ChargersSearch\obj\Debug\net6.0\ref\ChargersSearch.dll
